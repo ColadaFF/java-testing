@@ -38,7 +38,7 @@ const IndexPage = () => (
         </div>
 
         <Card
-          title="Table of Contents"
+          title="Tabla de contenido"
           content={props.allMarkdownRemark.edges}
         />
       </div>

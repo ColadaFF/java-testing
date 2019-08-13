@@ -1,17 +1,14 @@
 ---
 path: "/intro"
-title: "Introduction"
+title: "Introducción"
 order: 0
 ---
 
-This is page one.
-
-## Check out this image
-
-![Gatsby Logo](./images/logo.svg)
+Esta es la introducción
 
 ## Check out a code sample
 
-```js
-const x = 2 + 2;
+```java
+// this is a comment
+Integer i = 0;
 ```
